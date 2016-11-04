@@ -1,3 +1,9 @@
-#image{
+img{
 	position: absolute;
+}
+#image2{
+	top:500px;
+}
+#image3{
+	left:700px;
 }
